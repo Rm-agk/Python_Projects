@@ -1,7 +1,4 @@
-# Student 1 = Chukwuemeka Martins Ejike, Student ID = 20352671
-# Student 2 = Mohhamed Aloba, Student ID = 20422224
-
-# We imported random library to generate random number generator although we could've another library but it would've took longer
+# I imported random library to generate random number generator although we could've another library but it would've took longer
 import random
 
 # Created a class University, A name such as DCU = "self.name = name", A dictionary of courses and fees = "coursesNfees", An empty list to keep the student objects later = "self.students = []"
